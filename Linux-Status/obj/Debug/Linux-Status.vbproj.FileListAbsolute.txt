@@ -1,0 +1,13 @@
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\bin\Debug\Linux-Status.exe.config
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\bin\Debug\Linux-Status.exe
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\bin\Debug\Linux-Status.pdb
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\bin\Debug\Linux-Status.xml
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.vbproj.AssemblyReference.cache
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux_Status.Form1.resources
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux_Status.Resources.resources
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.vbproj.GenerateResource.cache
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.vbproj.CoreCompileInputs.cache
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.exe
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.xml
+C:\Users\Ziko\source\repos\Linux-Status\Linux-Status\obj\Debug\Linux-Status.pdb
