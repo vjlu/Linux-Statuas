@@ -1,0 +1,5 @@
+"BotToken=put your bot token here"
+"ID=put your id here"
+
+you can create a new bot in telegram by searching @BotFather and then follow the on-screen instructions
+you can get your account id by searching @myidbot
